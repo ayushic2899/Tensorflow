@@ -8,7 +8,7 @@ TensorFlow is the second machine learning framework that Google created and used
 
 You see? The name “TensorFlow” is derived from the operations which neural networks perform on multidimensional data arrays or tensors! It’s literally a flow of tensors. For now, this is all you need to know about tensors, but you’ll go deeper into this in the next sections!
 
-**Today’s TensorFlow tutorial for beginners will introduce you to performing deep learning in an interactive way:**
+**TensorFlow introduce you to performing deep learning in an interactive way:**
 
 1. You’ll first learn more about tensors;
 2. Then, the tutorial you’ll briefly go over some of the ways that you can install TensorFlow on your system so that you’re able to get started and load data in your workspace;
